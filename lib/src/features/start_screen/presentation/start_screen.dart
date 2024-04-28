@@ -49,6 +49,9 @@ class StartScreen extends StatelessWidget {
                       SizedBox(
                         height: 20,
                       ),
+                      SizedBox(
+                        height: 10,
+                      ),
                       Text(
                         "Feeling Snackish Today?",
                         style: TextStyle(
